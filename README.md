@@ -72,18 +72,21 @@ Some users may experience unexpected behaviour when using:
 ### 1. Clone the repository
 ![Clone Repository](assets/1.png)
 
-Clone the project from GitHub and enter the project directory.
+Clone the project from GitHub.
 
 ### 2. Run the installer
 ![Installation](assets/2.png)
 
-Grant execution permissions and install all required dependencies.
+Enter the project directory and grant execution permissions.
 
 ### 3. Installation completed
 ![Installation Complete](assets/3.png)
+
+Install all required dependencies
+
 ![Network Discovery](assets/4.png)
 
-Once the installation finishes, choose the language version you want to run.
+ Once the installation finishes, choose the language version you want to run.
 
 ### 4. Target selection
 ![Target Selection](assets/5.png)
