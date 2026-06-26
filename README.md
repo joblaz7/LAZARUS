@@ -67,11 +67,11 @@ Some users may experience unexpected behaviour when using:
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Walkthrough
 
-The complete workflow of LAZARUS will be shown below.
+### 1. Clone the repository
 
-> Screenshots will be added in future updates.
+Clone the project from GitHub and enter the project directory.
 
 ---
 
