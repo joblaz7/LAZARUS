@@ -70,8 +70,9 @@ Some users may experience unexpected behaviour when using:
 ## 📸 Project Walkthrough
 
 ### 1. Clone the repository
-
+![Clone Repository](assets/1.png)
 Clone the project from GitHub and enter the project directory.
+
 
 ---
 
