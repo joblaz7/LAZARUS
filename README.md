@@ -1,8 +1,8 @@
 <div align="center">
 
-# LAZARUS
-
-### DNS Spoofing Toolkit for Linux
+<p align="center">
+  <img src="assets/banner.png" alt="LAZARUS Banner" width="100%">
+</p>
 
 *A Python-based toolkit for educational cybersecurity laboratories.*
 
