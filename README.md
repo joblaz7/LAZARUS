@@ -81,32 +81,29 @@ Grant execution permissions and install all required dependencies.
 
 ### 3. Installation completed
 ![Installation Complete](assets/3.png)
+![Network Discovery](assets/4.png)
 
 Once the installation finishes, choose the language version you want to run.
 
-### 4. Automatic network discovery
-![Network Discovery](assets/4.png)
-
-LAZARUS automatically detects the network interface, local IP address, default gateway, and scans the local subnet for available hosts.
-
-### 5. Target selection
+### 4. Target selection
 ![Target Selection](assets/5.png)
 
+LAZARUS automatically detects the network interface, local IP address, default gateway, and scans the local subnet for available hosts.
 Select the target from the list of detected hosts.
 
-### 6. Confirmation
+### 5. Confirmation
 ![Confirmation](assets/6.png)
 
 Before starting, LAZARUS asks for confirmation to ensure the operation is intentional.
 
-### 7. Toolkit running
+### 6. Toolkit running
 ![Running](assets/7.png)
 
 After confirmation, the toolkit prepares the environment, enables IP forwarding, starts the required services, and opens a separate DNS log window.
 
 The main terminal remains available while the toolkit is running.
 
-### 8. DNS activity
+### 7. DNS activity
 ![DNS Logs](assets/8.png)
 
 The DNS log window displays intercepted DNS requests in real time.
