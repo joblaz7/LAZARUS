@@ -55,7 +55,6 @@ The behaviour of the toolkit may vary depending on the network configuration.
 Some users may experience unexpected behaviour when using:
 
 - Bridged networking
-- Wireless networks
 - Corporate or managed networks
 - Client isolation
 - Different virtualization platforms
