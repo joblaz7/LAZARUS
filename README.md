@@ -71,19 +71,27 @@ Some users may experience unexpected behaviour when using:
 ### 1. Clone the repository
 ![Clone Repository](assets/1.png)
 
+git clone https://github.com/joblaz7/LAZARUS.git
+
 Clone the project from GitHub.
 
 ### 2. Run the installer
 ![Installation](assets/2.png)
 
+cd LAZARUS
+chmod +x install.sh
+
 Enter the project directory and grant execution permissions.
 
 ### 3. Installation completed
 ![Installation Complete](assets/3.png)
-
+./install.sh
 Install all required dependencies
 
 ![Network Discovery](assets/4.png)
+
+sudo python3 LAZARUS_EN/lazarus.py
+sudo python3 LAZARUS_ES/lazarus.py
 
  Once the installation finishes, choose the language version you want to run.
 
