@@ -86,11 +86,13 @@ Enter the project directory and grant execution permissions.
 ### 3. Installation completed
 ![Installation Complete](assets/3.png)
 ./install.sh
+
 Install all required dependencies
 
 ![Network Discovery](assets/4.png)
 
 sudo python3 LAZARUS_EN/lazarus.py
+
 sudo python3 LAZARUS_ES/lazarus.py
 
  Once the installation finishes, choose the language version you want to run.
