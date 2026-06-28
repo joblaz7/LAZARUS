@@ -79,6 +79,7 @@ Clone the project from GitHub.
 ![Installation](assets/2.png)
 
 cd LAZARUS
+
 chmod +x install.sh
 
 Enter the project directory and grant execution permissions.
